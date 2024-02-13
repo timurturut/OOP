@@ -2,20 +2,6 @@
 
 This C++ program simulates a day at the zoo using object-oriented principles. It features a basic zoo management system with animal classes, an interface, and a Zoo class to manage and simulate the activities of different animals.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Classes](#classes)
-  - [Animal](#animal)
-  - [Lion](#lion)
-  - [Elephant](#elephant)
-  - [Bird](#bird)
-  - [Zoo](#zoo)
-- [Usage](#usage)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 The program consists of the following classes:
